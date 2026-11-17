@@ -1,0 +1,19 @@
+* Hello, I'm Ritesh
+
+I'm currently based in Singapore.
+
+Recently, I've been spending my free time contributing to PostgreSQL (some CPython contribs are WIP too) and these public profiles are for my public repos.
+They're mirrored here as well as on [[https://codeberg.org/rtshkmr][Codeberg]].
+
+I also try to write on [[https://blog.rtshkmr.com?utm_source=github&utm_medium=profile&utm_campaign=fallback&utm_term=fallback][my blog]].
+
+I'm available [[mailto:hello@rtshkmr.com][over email.]].
+
+I can't imagine life without my cats nor without emacs.
+
+#+BEGIN_HTML
+<p align="center">
+  <img src="attachments/simba_toothless_1.jpg" alt="Simba cat" width="45%">
+  <img src="attachments/marie_yawning.jpg" alt="Marie Curie" width="45%">
+</p>
+#+END_HTML
